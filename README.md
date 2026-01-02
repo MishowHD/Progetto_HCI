@@ -118,6 +118,12 @@ For a complete set of mockups, refer to the rest of the images in the `images/` 
 
 This project was completed in 2025 for the Human–Computer Interaction course at our university.
 
-## License
+## Licensing
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+### Source Code
+The source code of this project (HTML, CSS, JavaScript) is licensed under the MIT License.
+
+### Reports and Documents
+The reports, PDFs and written materials included in this repository are licensed under
+the Creative Commons Attribution–NonCommercial 4.0 International (CC BY-NC 4.0),
+unless otherwise stated.
